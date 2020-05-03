@@ -1,0 +1,6 @@
+framework module Pods_BarqTask {
+  umbrella header "Pods-BarqTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
